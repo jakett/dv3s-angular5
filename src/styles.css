@@ -1,0 +1,14 @@
+/* You can add global styles to this file, and also import other style files */
+body {
+    margin: 0px;
+}
+
+.flex-cv {
+    display: inline-flex;
+    align-items: center;
+}
+
+.flex-ch {
+    display: inline-flex;
+    justify-content: center;
+}

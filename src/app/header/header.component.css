@@ -1,0 +1,32 @@
+.header-container {
+    background-color: #2B2C30;
+    padding: 0 15px;
+}
+
+.header-ul {
+    margin: 0px;
+    padding: 0px;
+    height: 50px;
+    list-style-type: none;
+}
+
+.header-li > div {
+    margin: 0px;
+}
+
+.dl-logo-circle {
+    margin: 5px;
+    width: 40px;
+    height: 40px;
+    border-radius: 20px;
+    border: 2px solid #1cbbff;
+}
+
+.dl-logo {
+    cursor: pointer;
+    margin: 5px 10px;
+    background-size: 24px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-image: url('/assets/png/dlm-logo-white.png');
+}
